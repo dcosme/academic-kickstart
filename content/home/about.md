@@ -10,31 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
-  ]
+    "Developmental Cognitive Neuroscience",
+    "Affective Neuroscience",
+    "Open Science"
+    ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MS - Psychology"
+  institution = "University of Oregon"
+  year = 2016
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "MS - Psychology"
+  institution = "Stockholm University"
+  year = 2014
+
+[[education.courses]]
+  course = "BS - Psychobiology"
+  institution = "Chapman University"
   year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
-# Biography
+Broadly, I am interested in understanding how cognitive and emotional skills, such as cognitive control and emotion regulation, develop, promote health and well-being, and serve as buffers against stress and maladaptive coping strategies, such as unhealthy eating and substance use. I'm also interested in understanding how motivational factors, such as autonomy and intrinsic motivation, affect decisions to engage in regulation and regulation success. 
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I use univariate and multivariate methods to investigate how the control processes are represented in the brain during decisions to regulate appetitive motivations, how these representations modulate other key nodes responsible for implementing control, and how neural representations during regulation predict behavior within the task and outside the lab.
